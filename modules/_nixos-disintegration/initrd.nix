@@ -5,7 +5,6 @@ let
 in
 {
   disabledModules = [
-    "tasks/encrypted-devices.nix"
     "tasks/filesystems/zfs.nix"
   ];
 
